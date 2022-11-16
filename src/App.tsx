@@ -8,8 +8,8 @@ function App() {
 
   return (
     <div className="flex flex-col items-center py-8">
-      <h1 className="flex justify-center text-sm sm:text-base md:text-3xl lg:text-4xl pb-10">
-        Crowdfunding 💜 Show love to your fav project!
+      <h1 className="flex justify-center text-sm sm:text-base md:text-3xl lg:text-4xl pb-10 text-purple-700">
+      Let's Make This Happen!
       </h1>
 
       <div className="flex justify-center">
